@@ -2,13 +2,6 @@
 한소인 1조 팀프로젝트
 ## ✍️ 요약
 
-![메인 화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6f22b0f7-93de-49a4-8a36-47e544d5a0ef/%ED%99%88.jpg)
-
-메인 화면
-
-![DB분석 결과 데이터](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/801c5b1a-23af-43a0-afe7-3889c2f99f9d/%EC%BA%A1%EC%B3%90.jpg)
-
-DB분석 결과 데이터
 
 - 사용 대상
     - 의약 서비스를 간편하게 이용하는 사용자
@@ -98,37 +91,7 @@ DB분석 결과 데이터
         - 원인 및 증상과 함께 해결방안들을 제공하며
         예측해보기를 눌렀을 때
         - 발병확률과 함께 예측과정에 대한 정보를 안내합니다.
-    
-    ### 와이어 프레임
-    
-    ![분석 결과 페이지](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/39e10dde-982b-43b8-8dfc-0dea989043e3/%EB%B6%84%EC%84%9D.jpg)
-    
-    분석 결과 페이지
-    
-    ![안드로이드 결과 페이지](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/786a6d2e-aa89-4516-9ebb-e5859c9ea766/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B6%84%EC%84%9D_%EA%B2%B0%EA%B3%BC_(2).png)
-    
-    안드로이드 결과 페이지
-    
-    ![영양제 리뷰 페이지](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4cb5e165-99fb-4337-a89a-2863f77ee77b/Untitled.png)
-    
-    영양제 리뷰 페이지
-    
-    ![질병 예측 및 결과 페이지](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3ff9033b-fd72-46e0-aa7f-ee51d545afa3/Untitled.png)
-    
-    질병 예측 및 결과 페이지
-    
-    ![영양제 테이블 통계 페이지](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ae9faa97-ed2a-4123-a503-16c593cc5f9c/HJJ_GRAPH.png)
-    
-    영양제 테이블 통계 페이지
-    
-    ![Chat-Bot 서비스](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b0b363bf-f233-43f9-9d74-c7cab03306dd/Untitled.png)
-    
-    Chat-Bot 서비스
-    
-    ![건강 다이어리 페이지](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b1549761-c057-49e6-b4d7-25dc0ad6b10c/Untitled.png)
-    
-    건강 다이어리 페이지
-    
+
     ### 개발 외
     
     - 컨텐츠 개발을 위해 다양한 정보 수집 및 크롤링을 통한 데이터베이스
